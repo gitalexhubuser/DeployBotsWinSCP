@@ -24,6 +24,7 @@
 - [ ] docker
 - [ ] как переключиться после закрытия консоли на логи бота
 - [ ] крутые ссылки на разные VPS в PuTTY
+- [ ] видел фикс проблемы с кодировкой на ют в бота добавлять
 
 ---
 
@@ -161,15 +162,20 @@ ctrl+c
 
 ### Узнать версию системы
 
-`uname -a`
-> Linux bot-101 5.4.0-146-generic #163-Ubuntu SMP Fri Mar 17 18:26:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+```bash
+uname -a
 
-`lsb_release -a`
+# Linux bot-101 5.4.0-146-generic #163-Ubuntu SMP Fri Mar 17 18:26:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+```
+
+```bash
+lsb_release -a
 > No LSB modules are available.
 > Distributor ID: Ubuntu
 > Description:    Ubuntu 22.04.1 LTS
 > Release:        22.04
 > Codename:       jammy
+```
 
 ---
 
@@ -225,6 +231,6 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi
 # Ссылки
 | Описание | Ссылка |
 | ------ | ------ |
-Чатик: | https://t.me/+c8r_IMXAMjpkZTY6
+Чат VPS хостинга: | https://t.me/+c8r_IMXAMjpkZTY6
 Бесплатный хостинг (Леонид): | https://t.me/Lvikme
 Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP
