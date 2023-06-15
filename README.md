@@ -222,4 +222,4 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi
 | ------ | ------ |
 Чатик: | https://t.me/+c8r_IMXAMjpkZTY6
 Бесплатный хостинг (Леонид): | https://t.me/Lvikme
-Репо: | 
+Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP
