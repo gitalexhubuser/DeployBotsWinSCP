@@ -1,5 +1,7 @@
 # DeployBotsWinSCP
-![](https://i.imgur.com/6TIoe54.jpeg)
+
+<img src="https://i.imgur.com/6TIoe54.jpeg" width="30%" align="center"/>
+<img src="https://i.imgur.com/RosHgNx.jpeg" width="10%" align="center"/>
 
 ## Описание
 
@@ -38,7 +40,7 @@ cd /BOT228; source tik-tok/bin/activate; nohup python3 main.py &
 
 ```bash
 python3 --version
-#Python 3.10.6
+# Python 3.10.6
 ```
 
 ### Версия установщика пакетов
@@ -115,9 +117,11 @@ nohup
 ```bash
 ps aux | grep main.py 
 # root 361 0.0 11.0 327896 55196 pts/1 Sl 08:31 0:00 python3 main.py
+# 361 ID
 
 ps aux | grep python3
 # root 458 0.0 13.7 407916 68860 pts/1 Sl 08:43 0:04 python3 main.py
+# 458 ID
 ```
 
 ### Как остановить процесс nohup
@@ -148,10 +152,10 @@ killall python3
 
 ```bash
 # Закрыть при открытом терминале
-ctrl+z
+ctrl + z
 
 # Остановить бота
-ctrl+c
+ctrl + c
 ```
 
 ### Получить список файлов
