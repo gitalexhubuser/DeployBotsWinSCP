@@ -1,7 +1,8 @@
 # DeployBotsWinSCP
 
-<img src="https://i.imgur.com/6TIoe54.jpeg" width="30%" align="center"/>
-<img src="https://i.imgur.com/RosHgNx.jpeg" width="10%" align="center"/>
+<img src="https://i.imgur.com/6TIoe54.jpeg" width="70%" align="center"/>
+
+<img src="https://i.imgur.com/RosHgNx.jpeg" width="50%" align="center"/>
 
 ## Описание
 
