@@ -141,7 +141,7 @@ ctrl+c
 ### Перемещение по директориям
 
 ```bash
-`cd /BOT228`
+cd /BOT228
 
 # c - change
 # d - directory
