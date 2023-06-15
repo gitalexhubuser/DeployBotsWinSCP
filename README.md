@@ -18,7 +18,7 @@
 ---
 
 ## Todo
-- [ ] как читать логи
+- [ ] как читать логи (nohup.out)
 - [ ] deamon ubuntu
 - [ ] screen https://youtu.be/x-VB3b4pKcU
 - [ ] docker
@@ -32,14 +32,21 @@
 ## Python
 
 ### Узнать версию питона
-`python3 --version`
-> Python 3.10.6
+
+```bash
+python3 --version
+#Python 3.10.6
+```
 
 ### Версия установщика пакетов
-`pip3 -v`
-> pip 23.0 from /usr/local/lib/python3.10/dist-packages/pip (python 3.10)
+
+```bash
+pip3 -v
+# pip 23.0 from /usr/local/lib/python3.10/dist-packages/pip (python 3.10)
+```
 
 ### Создать виртуальное окружение
+
 `python3 -m venv tik-tok`
 
 ---
@@ -49,6 +56,9 @@
 ```bash
 # Активация venv с Пк
 .\tik-tok\Scripts\activate
+
+# Активация venv с Пк (2)
+source tik-tok/Scripts/activate
 
 # Активация venv на хостинге (путь отличается)
 source tik-tok/bin/activate  -- Урок https://youtu.be/x-VB3b4pKcU?t=638
