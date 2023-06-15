@@ -25,6 +25,7 @@
 - [ ] как переключиться после закрытия консоли на логи бота
 - [ ] крутые ссылки на разные VPS в PuTTY
 - [ ] видел фикс проблемы с кодировкой на ют в бота добавлять
+- [ ] для killall какая либа нужна?
 
 ---
 
@@ -45,30 +46,34 @@
 
 ## Pytty
 
-`.\tik-tok\Scripts\activate`
-> С Пк
+```bash
+# Активация venv с Пк
+.\tik-tok\Scripts\activate
 
-`source tik-tok/bin/activate` <!-- Урок https://youtu.be/x-VB3b4pKcU?t=638 -->
-> На хостинге по другому
+# Активация venv на хостинге (путь отличается)
+source tik-tok/bin/activate  -- Урок https://youtu.be/x-VB3b4pKcU?t=638
 
-`pip install -r requirements.txt`
-> Устанавливаем зависимости (желательно в venv)
+# Устанавливаем зависимости (желательно в venv)
+pip install -r requirements.txt
 
-`python3 main.py`
-> Запуск скрипта из терминала
+# Запуск скрипта с Пк
+python main.py
 
-> С Пк `python main.py`
-
-> На хостинге `python3 main.py`
+#  Запуск скрипта из терминала на хостинге 
+python3 main.py
+```
 
 ---
 
 ## nohup
-`nohup`
-> Утилита ставит процесс питона на фон
 
-`&`
-> Команду на фон кинуть, чтоб терминалом дальше пользоваться
+```bash
+# Утилита ставит процесс питона на фон
+nohup
+
+# Спец символ дающий команду на фон кинуть процесс питона, чтоб продолжать дальше пользоваться терминалом
+& 
+```
 
 `nohup python3 main.py`
 
@@ -94,23 +99,28 @@
 
 ### Найти ID процесса 
 
-`ps aux | grep main.py` 
-> root 361  0.0 11.0 327896 55196 pts/1    Sl   08:31   0:00 python3 main.py
+```bash
+ps aux | grep main.py 
+# root 361 0.0 11.0 327896 55196 pts/1 Sl 08:31 0:00 python3 main.py
 
-`ps aux | grep python3`
-> root 458  0.0 13.7 407916 68860 pts/1    Sl   08:43   0:04 python3 main.py
+ps aux | grep python3
+# root 458 0.0 13.7 407916 68860 pts/1 Sl 08:43 0:04 python3 main.py
+```
 
 ### Как остановить процесс nohup
 
-<!-- Убить процесс -->
-`kill <ID процесса>` 
-> [1]+  Terminated nohup python3 main.py
+```bash
+# Убить процесс
+kill <ID процесса>
+# [1]+  Terminated nohup python3 main.py
 
-<!-- Насильно убить процесс -->
-`pkill -f "python3"`
+# Насильно убить процесс
+pkill -f "python3"
 
-<!-- Убить процесс python -->
-`killall python3`  -- у меня нету killall
+# Убить все процессы python3
+killall python3
+```
+> У меня нету `killall`! Нужно ставить ...
 
 ---
 
