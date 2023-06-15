@@ -3,17 +3,20 @@
 
 ## Описание
 
-Инфа про то, как задеплоить бота на питоне на сервер LXD SSH VPS Server
+Инфа про то, как задеплоить бота на питоне на сервер LXD, SSH, VPS Server
 
 На примере моего [бота для тик тока](https://t.me/pythonTikTok_chat)
 
-Папка проекта называется - BOT228
+Папка проекта называется - `BOT228`
 
 ---
 
 ## Использование
-`cd /BOT228; source tik-tok/bin/activate; nohup python3 main.py &`
-> Chat gpt помогла!
+
+```bash
+cd /BOT228; source tik-tok/bin/activate; nohup python3 main.py &
+# Команда-макрос в 1-н клик - на запуск бота в телеграм на VPS
+```
 
 ---
 
@@ -259,5 +262,5 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi
 | Описание | Ссылка |
 | ------ | ------ |
 Чат VPS хостинга: | https://t.me/+c8r_IMXAMjpkZTY6
-Бесплатный хостинг (Леонид): | https://t.me/Lvikme
+Бесплатный хостинг (пишите в личку Леониду): | https://t.me/Lvikme
 Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP
