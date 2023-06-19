@@ -32,8 +32,16 @@
 ---
 
 ## Короткий гайд
-- Скачиваем и устанавливаем последние версии 2-х этих программ: [1](https://winscp.net/download/WinSCP-6.1-Setup.exe) [2](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi)
+- Скачиваем и устанавливаем последние версии 2-х этих программ: [1](https://winscp.net/download/WinSCP-6.1-Setup.exe), [2](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi)
 - Получаем 1) логин, 2) пароль, 3) ip, и 4) порт у [Леонида](https://t.me/Lvikme)
+```bash
+# Пример
+194.xxx.xxx.xxx     # Имя хоста
+22101               # Порт
+root                # Имя пользователя
+password            # Пароль
+
+```
 - Авторизуемся в WinSCP используя полученные данные
 - Далее переносим из винды на сервер папку с проектом бота (и визуально запоминаем путь) например `/MYBOT`
 - Далее переносим из винды на сервер папку с проектом бота
