@@ -61,13 +61,18 @@ password            # Пароль
 ![](https://i.imgur.com/UmbCVJg.jpeg)
 </details>
 
-- В терминате PyTTY:
-    - перемещаемся в папку с проектом
+- В терминате PyTTY перемещаемся в папку с проектом и запускаем бота
     - командой `cd /MYBOT; nohup python3 main.py &` запускаем вашего бога (если у вас **нету** виртуального окружения)
-    - командой `cd /MYBOT; source venv/bin/activate; nohup python3 main.py &` запускаем вашего бога (если у вас уже **есть*** виртуальное окружение)
+    > Должны стоять библиотеки глобально! (не лучший выбор)
+    - командой `cd /MYBOT; source venv/bin/activate; nohup python3 main.py &` запускаем вашего бога (если у вас уже **есть** виртуальное окружение)
+    > Лучше изучить venv и установить библиотеки в виртуальное окружение!
+    > Данные команды смогут Вам в этом помочь:
+    > `python3 -m venv my_bot`
+    > `pip install -r requirements.txt`
+    > `source my_bot/bin/activate`
 - Всё заработало!
 
-> Подробней что такое venv, nohup, виртуальное окружение, requirements.txt - можно почитать в master ветке.
+> Подробней что такое venv, nohup, виртуальное окружение, requirements.txt - можно почитать в ветке [master](https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/main).
 
 ---
 
