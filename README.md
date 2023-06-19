@@ -74,4 +74,4 @@ password            # Пароль
 | ------ | ------ |
 Чат VPS хостинга: | https://t.me/+c8r_IMXAMjpkZTY6
 Бесплатный хостинг (пишите в личку Леониду): | https://t.me/Lvikme
-Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP
+Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/easy-guide
