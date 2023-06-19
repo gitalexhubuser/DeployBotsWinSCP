@@ -1,6 +1,6 @@
 # DeployBotsWinSCP - ветка "easy-guide"
 
-<img src="https://i.imgur.com/vRPZlfF.jpeg" width="70%" align="center"/>
+[![img1](https://i.imgur.com/vRPZlfF.jpeg)](https://t.me/c/1901233574/881)
 
 ## Описание
 
