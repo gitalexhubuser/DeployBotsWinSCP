@@ -8,20 +8,21 @@
 
 В ней вы найдёте, краткую информацию, как запустить (задеплоить) простейшего бота в ТГ, на удаленном хостинге VPS, через команду `nohup`.
 
-Использование через команду `nohup` - не идеальный user experience, но холивары на эту темы мы сейчас развиват не будем!
+Использование будет реализованочерез команду `nohup` - не идеальный user experience, но холивары на эту темы мы сейчас развивать не будем!
 
-Всё произойдёт в 7*  шагов.
+Всё произойдёт за **7**  шагов!!!
 
 Поехали...
 
 ---
 
 ## Супер короткий гайд
+- Подготовли простейшего бота
 - Скачали [спец по](https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/main#%D1%81%D0%BE%D1%84%D1%82)
-- [Получили](https://t.me/Lvikme) лог\пасс от сервера
+- [Получили](https://t.me/Lvikme) лог \ пасс \ адрес \ порт от сервера
 - Вошли через [WinSCP](https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/main#winscp-61)
 - Перенесли файлы бота
-- Открыли [Pytty](https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/main#putty)
+- Открыли [PyTTY](https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/main#putty)
 - Перемещаемся в папку с проектом
 - Если вы используете виртуальное окружение
     - вводим макрос `cd /MYBOT; source venv/bin/activate; nohup python3 main.py &`
@@ -42,11 +43,29 @@ root                # Имя пользователя
 password            # Пароль
 
 ```
-- Авторизуемся в WinSCP используя полученные данные
+- Авторизуемся в [WinSCP](https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/main#winscp-61) используя полученные данные
 - Далее переносим из винды на сервер папку с проектом бота (и визуально запоминаем путь) например `/MYBOT`
-- Далее переносим из винды на сервер папку с проектом бота
-- Открываем Pytty
-путь, куда мы только что
+
+<details>
+<summary>Подробней...</summary>
+
+![](https://i.imgur.com/QSRAGSr.jpeg)
+</details>
+
+- Открываем [PyTTY](https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/main#putty)
+<details>
+<summary>Подробней...</summary>
+
+![](https://i.imgur.com/UmbCVJg.jpeg)
+</details>
+
+- В терминате PyTTY:
+    - перемещаемся в папку с проектом командой `cd /MYBOT`
+    - командой `cd /MYBOT; nohup python3 main.py &` запускаем вашего бога (если у вас **нету** виртуального окружения)
+    - командой `cd /MYBOT; source venv/bin/activate; nohup python3 main.py &` запускаем вашего бога (если у вас уже **есть*** виртуальное окружение)
+- Всё заработало!
+
+> Подробней что такое venv, nohup, виртуальное окружение, requirements.txt - можно почитать в master ветке.
 
 ---
 
