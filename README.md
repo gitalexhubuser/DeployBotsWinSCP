@@ -26,6 +26,7 @@ cd /BOT228; source tik-tok/bin/activate; nohup python3 main.py &
 ## Todo
 - [ ] как читать логи (nohup.out)
 - [ ] deamon ubuntu
+- [ ] supervisor
 - [ ] screen https://youtu.be/x-VB3b4pKcU
 - [ ] docker
 - [ ] как переключиться после закрытия консоли на логи бота
