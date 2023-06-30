@@ -1,6 +1,4 @@
-# DeployBotsWinSCP - ветка "easy-guide"
-
-[![img1](https://i.imgur.com/vRPZlfF.jpeg)](https://t.me/c/1901233574/881)
+# GUIDE 1.1 - 'nohup' (easy guide) @gitalexhubuser
 
 ## Описание
 
@@ -79,6 +77,6 @@ password            # Пароль
 # Ссылки
 | Описание | Ссылка |
 | ------ | ------ |
-Чат VPS хостинга: | https://t.me/+c8r_IMXAMjpkZTY6
-Бесплатный хостинг (пишите в личку Леониду): | https://t.me/Lvikme
-Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP/tree/easy-guide
+Чат VPS хостинга: | [t.me/+c8r_IMXAMjpkZTY6](https://t.me/+c8r_IMXAMjpkZTY6)
+Бесплатный хостинг (пишите в личку Леониду): | [t.me/Lvikme](https://t.me/Lvikme)
+Репо: | [github.com/gitalexhubuser/DeployBotsWinSCP](https://github.com/gitalexhubuser/DeployBotsWinSCP)

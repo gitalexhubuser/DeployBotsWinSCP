@@ -1,14 +1,12 @@
-# DeployBotsWinSCP - ветка main
-
-<img src="https://i.imgur.com/6TIoe54.jpeg" width="70%" align="center"/>
-
-<img src="https://i.imgur.com/RosHgNx.jpeg" width="50%" align="center"/>
+# GUIDE 1.0 - 'nohup' (notes) @gitalexhubuser.md
 
 ## Описание
 
-Инфа про то, как задеплоить бота на питоне на сервер LXD, SSH, VPS Server
+Инфа про то, как задеплоить бота на питоне на сервер LXD, SSH, VPS Server.
 
-На примере моего [бота для тик тока](https://t.me/pythonTikTok_chat)
+Заметки\наброски, с чем пришлось столкнуться, перед тем, как задеплоить.
+
+На примере моего [бота для тик тока](https://t.me/pythonTikTok_chat).
 
 Папка проекта называется - `BOT228`
 
@@ -288,6 +286,6 @@ https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi
 # Ссылки
 | Описание | Ссылка |
 | ------ | ------ |
-Чат VPS хостинга: | https://t.me/+c8r_IMXAMjpkZTY6
-Бесплатный хостинг (пишите в личку Леониду): | https://t.me/Lvikme
-Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP
+Чат VPS хостинга: | [t.me/+c8r_IMXAMjpkZTY6](https://t.me/+c8r_IMXAMjpkZTY6)
+Бесплатный хостинг (пишите в личку Леониду): | [t.me/Lvikme](https://t.me/Lvikme)
+Репо: | [github.com/gitalexhubuser/DeployBotsWinSCP](https://github.com/gitalexhubuser/DeployBotsWinSCP)

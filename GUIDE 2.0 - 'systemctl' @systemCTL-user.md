@@ -1,4 +1,6 @@
-# Гайд по деплою, тг бота - при помощи либы "systemd"
+# GUIDE 2.0 - 'systemctl' @systemCTL-user.md
+
+## Описание
 
 Бота лучше положить в `/usr/local/bin`
 
@@ -73,8 +75,11 @@ systemctl status bot229.service
 
 Бот запустился и работает!
 
+---
+
 # Ссылки
 | Описание | Ссылка |
 | ------ | ------ |
-Оригинал: | https://habr.com/ru/articles/347106/
-Репо: | https://gitlab.com/systemCTL-user/systemd-little-guide
+Чат VPS хостинга: | [t.me/+c8r_IMXAMjpkZTY6](https://t.me/+c8r_IMXAMjpkZTY6)
+Бесплатный хостинг (пишите в личку Леониду): | [t.me/Lvikme](https://t.me/Lvikme)
+Репо: | [github.com/gitalexhubuser/DeployBotsWinSCP](https://github.com/gitalexhubuser/DeployBotsWinSCP)

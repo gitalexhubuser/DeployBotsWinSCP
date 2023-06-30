@@ -47,6 +47,6 @@
 # Ссылки
 | Описание | Ссылка |
 | ------ | ------ |
-Чат VPS хостинга: | https://t.me/+c8r_IMXAMjpkZTY6
-Бесплатный хостинг (пишите в личку Леониду): | https://t.me/Lvikme
-Репо: | https://github.com/gitalexhubuser/DeployBotsWinSCP
+Чат VPS хостинга: | [t.me/+c8r_IMXAMjpkZTY6](https://t.me/+c8r_IMXAMjpkZTY6)
+Бесплатный хостинг (пишите в личку Леониду): | [t.me/Lvikme](https://t.me/Lvikme)
+Репо: | [github.com/gitalexhubuser/DeployBotsWinSCP](https://github.com/gitalexhubuser/DeployBotsWinSCP)
