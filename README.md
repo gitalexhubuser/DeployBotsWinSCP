@@ -9,9 +9,10 @@
 
 На данный момент - конкурс уже завершен!
 
-В данном репозитории - собраны работы всех участников.
+В [данном репозитории](https://github.com/gitalexhubuser/DeployBotsWinSCP) - собраны работы всех участников.
 
 ---
+
 ## Лучший выбор для новичка
 
 На мой скромный взгляд - лучшим гайдом для новичка является [GUIDE 1.1 - 'nohup' (easy guide) @gitalexhubuser](https://github.com/gitalexhubuser/DeployBotsWinSCP/blob/main/GUIDE%201.1%20-%20'nohup'%20(easy%20guide)%20%40gitalexhubuser.md)
