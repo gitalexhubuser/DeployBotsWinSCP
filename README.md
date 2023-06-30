@@ -1,4 +1,4 @@
-# DeployBotsWinSCP
+# DeployBotsWinSCP - ветка main
 
 <img src="https://i.imgur.com/6TIoe54.jpeg" width="70%" align="center"/>
 
