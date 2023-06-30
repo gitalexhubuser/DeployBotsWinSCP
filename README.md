@@ -32,6 +32,12 @@
 ---
 
 ## Список ВСЕХ гайдов:
+<details>
+<summary>4 шт</summary>
+![Guide-List](Images/guide_list.png)
+</details>
+
+
 - [GUIDE 1.0 - 'nohup' (notes) @gitalexhubuser](https://github.com/gitalexhubuser/DeployBotsWinSCP/blob/main/GUIDE%201.0%20-%20'nohup'%20(notes)%20%40gitalexhubuser.md)
 
 - [GUIDE 1.1 - 'nohup' (easy guide) @gitalexhubuser](https://github.com/gitalexhubuser/DeployBotsWinSCP/blob/main/GUIDE%201.1%20-%20'nohup'%20(easy%20guide)%20%40gitalexhubuser.md)
