@@ -2,7 +2,7 @@
 
 [![img1](https://i.imgur.com/vRPZlfF.jpeg)](https://t.me/c/1901233574/881)
 
-## Описание222
+## Описание 222
 
 Данная ветка создана [для участия в конкурсе тут](https://t.me/+c8r_IMXAMjpkZTY6).
 
