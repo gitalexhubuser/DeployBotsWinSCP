@@ -1,6 +1,6 @@
 # DeployBotsWinSCP
 
-[![VPS](Images/Title.png)](https://www.youtube.com/user/alexdubovyck/videos)
+[![VPS](Images/Title.png)](https://t.me/+c8r_IMXAMjpkZTY6)
 
 ## Описание
 Недавно в [телеграм чате](https://t.me/+c8r_IMXAMjpkZTY6) посвященному LXD VPS хостингу - проходил конкурс на написание лучшего (~~потятного~~) гайда по **деплою Telegram ботов** на этот самый хостинг!
