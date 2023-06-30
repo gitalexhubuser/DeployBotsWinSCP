@@ -34,6 +34,7 @@
 ## Список ВСЕХ гайдов:
 <details>
 <summary>4 шт</summary>
+
 ![Guide-List](Images/guide_list.png)
 </details>
 
