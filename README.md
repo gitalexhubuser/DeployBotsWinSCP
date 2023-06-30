@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/RosHgNx.jpeg" width="50%" align="center"/>
 
-## Описание
+## Описание1
 
 Инфа про то, как задеплоить бота на питоне на сервер LXD, SSH, VPS Server
 
