@@ -39,7 +39,7 @@
 
 - [GUIDE 3.0 - 'systemctl' @Robotvasya](https://github.com/gitalexhubuser/DeployBotsWinSCP/blob/main/GUIDE%201.1%20-%20'nohup'%20(easy%20guide)%20%40gitalexhubuser.md)
 
-> Вы так же можете написать свой гайд - [отправить мне](https://t.me/alexdubovyckvideos) - и я его добавлю в общий список!
+> Вы так же можете написать свой гайд - [отправить его мне](https://t.me/alexdubovyckvideos) - и я его добавлю в общий список!
 
 ---
 
