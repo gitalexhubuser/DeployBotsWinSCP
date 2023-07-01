@@ -31,6 +31,7 @@ pscp.exe root@123.123.123.123:/usr/local/bin/bot/database "C:\Users\PythonProjec
 
 Устанавливаем либки строго в виртуальное окружение
 `pip install -r requirements.txt`
+`deactivate` 
 
 Есть **systemd** ?
 `systemctl --version`
